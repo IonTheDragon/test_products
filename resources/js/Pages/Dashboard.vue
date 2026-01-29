@@ -4,10 +4,10 @@ import Welcome from '@/Components/Welcome.vue';
 </script>
 
 <template>
-    <AppLayout title="Dashboard">
+    <AppLayout title="Управление товарами">
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                Dashboard
+                Управление товарами
             </h2>
         </template>
 
